@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ankka peli</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_game">Game</string>
+</resources>
